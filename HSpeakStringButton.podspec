@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.author             = { "hare27" => "hare27@icloud.com" }
 
-  s.platform     = :ios
+  s.platform     = :ios,"9.0"
 
   s.source       = { :git => "https://github.com/hare27/HSpeakStringButton.git", :tag => "#{s.version}" }
 
