@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/hare27/HSpeakStringButton.git", :tag => "#{s.version}" }
 
-  s.source_files  = "HSpeakStringButton", "a/HSpeakStringButton/*.{h,m,a,bundle}"
+  s.source_files  = "HSpeakStringButton", "HSpeakStringButton/*.{h,m,a,bundle}"
 
 end
